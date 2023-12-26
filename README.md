@@ -33,13 +33,14 @@ g=b.write(f)
 ```
 
 ### OUTPUT:
-![](<Screenshot 2023-12-26 155522.png>)
+![Screenshot 2023-12-26 155612](https://github.com/Santhosh-0031/copy-file/assets/145551108/e6c198a9-d5c0-4c61-b1df-65658edb3540)
 
+ 
 i)TEXT FILE
-![Alt text](<Screenshot 2023-12-26 155814-2.png>)
+![Screenshot 2023-12-26 155814](https://github.com/Santhosh-0031/copy-file/assets/145551108/44350370-933f-482a-aca3-40612d76c4a5)
 
 ii) COPY FILE
-![Alt text](<Screenshot 2023-12-26 160253.png>)
+![Screenshot 2023-12-26 160253](https://github.com/Santhosh-0031/copy-file/assets/145551108/1ba50053-3eb2-4657-bb34-664dcae91963)
 
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
